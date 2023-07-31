@@ -31,7 +31,7 @@ Run The Manga Translator.exe , drag and drop your image to the Cmd prompt , the 
 
 ## Features
 
-<img width="726" alt="Screenshot 2023-05-20 at 1 13 54 PM" src="https://github.com/JaivigneshJv/Manga-Translator/assets/71516398/134efb32-0141-46f5-b040-33af75d8e26c">
+<img width="787" alt="image" src="https://github.com/JaivigneshJv/Manga-Translator/assets/71516398/2c59148f-b939-4f2c-bd83-c457b312d018">
 
 
 ## Contributing
